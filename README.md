@@ -7,7 +7,7 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=yxsh2411&label=Profile%20views&color=0e75b6&style=flat" alt="yxsh2411" /> </p>
   
   ---
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--126663808259169690%2F&psig=AOvVaw2mlnZyWvVy78Un7SPvPWj3&ust=1718436495007000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC2gPrI2oYDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--126663808259169690%2F&psig=AOvVaw2mlnZyWvVy78Un7SPvPWj3&ust=1718436495007000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC2gPrI2oYDFQAAAAAdAAAAABAE)
+<img align="right" alt="coding" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--126663808259169690%2F&psig=AOvVaw2mlnZyWvVy78Un7SPvPWj3&ust=1718436495007000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC2gPrI2oYDFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--126663808259169690%2F&psig=AOvVaw2mlnZyWvVy78Un7SPvPWj3&ust=1718436495007000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKC2gPrI2oYDFQAAAAAdAAAAABAE)](https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif)
 ">
   ### :man_technologist: About Me :
   I am a  Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
