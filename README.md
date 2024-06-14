@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yash tripathi</h1>
 <h3 align="center">🔭 I’m a college student. <br> 🌱 Exploring Computer Vision Artificial Intelligence</h3>
+ <div id="badges">
+      <a href="https://instagram.com/___.yxsh.____">
+        <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      </a>
+  </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yxsh2411&label=Profile%20views&color=0e75b6&style=flat" alt="yxsh2411" /> </p>
 
