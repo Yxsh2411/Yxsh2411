@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yash tripathi</h1>
-<h3 align="center">🔭 I’m a college student. <br> 🌱 Exploring Computer Vision Artificial Intelligence</h3>
  <div id="badges" align="center">
       <a href="https://instagram.com/___.yxsh.____">
         <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
   </div>
+  
+  ---
+
+  ### :man_technologist: About Me :
+  I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  - :telescope: I’m a college student and contributing to frontend and backend for building web applications.
+  - :seedling: Exploring Computer Vision Artificial Intelligence
+  - :heart: I’m looking to collaborate on Web Development
+  - :zap: Experienced in Python, Django, Tkinter, OpenCV, HTML, CSS, Javascript, Nodejs, Express, React, Tailwindcss, jQuery
+
+
+---
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yxsh2411&label=Profile%20views&color=0e75b6&style=flat" alt="yxsh2411" /> </p>
 
