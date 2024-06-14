@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash tripathi</h1>
 <h3 align="center">🔭 I’m a college student. <br> 🌱 Exploring Computer Vision Artificial Intelligence</h3>
- <div id="badges">
+ <div id="badges" align="center">
       <a href="https://instagram.com/___.yxsh.____">
         <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
       </a>
