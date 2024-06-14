@@ -6,7 +6,7 @@
       </a>
   </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yxsh2411&label=Profile%20views&color=0e75b6&style=flat" alt="yxsh2411" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yxsh2411&label=Profile%20views&color=0e75b6&style=flat" alt="yxsh2411" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
