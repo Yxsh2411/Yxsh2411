@@ -7,7 +7,8 @@
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=yxsh2411&label=Profile%20views&color=0e75b6&style=flat" alt="yxsh2411" /> </p>
   
   ---
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Yxsh2411/Yxsh2411/assets/120008732/3c86c916-d719-4d05-8103-7ac1a80bd616)
+">
   ### :man_technologist: About Me :
   I am a  Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   - :telescope: I’m a college student.
