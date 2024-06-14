@@ -28,9 +28,12 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yxsh2411&show_icons=true&locale=en&layout=compact" alt="yxsh2411" /></p>
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishaljoshi789&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishaljoshi789&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yxsh2411&show_icons=true&locale=en" alt="yxsh2411" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yxsh2411&" alt="yxsh2411" /></p>
+
 
