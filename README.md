@@ -5,8 +5,8 @@
       </a>
   </div>
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=yxsh2411&label=Profile%20views&color=0e75b6&style=flat" alt="yxsh2411" /> </p>
- <div>
-  <img align="center" alt="coding" width="200" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+ <div align = "center">
+  <img  alt="coding" width="200" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
  </div> 
   
   
